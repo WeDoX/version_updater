@@ -41,7 +41,7 @@ publishing {
         register<MavenPublication>("release") {
             groupId = "com.github.WeDoX" // 替换为你的GitHub用户名
             artifactId = "version_updater" // 库的名称
-            version = "1.0.0" // 版本号，应与Git标签一致
+            version = "1.0.1" // 版本号，应与Git标签一致
         }
     }
 }
