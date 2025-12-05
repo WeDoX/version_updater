@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="version_updater_download_dialog_title">正在下载</string>
+    <string name="version_updater_download_dialog_title_again">重新下载</string>
+    <string name="version_updater_download_dialog_content">请稍后，正在下载更新文件。请勿关闭应用程序。</string>
+    <string name="version_updater_install_permission_dialog_title">安装权限</string>
+    <string name="version_updater_install_permission_dialog_content">需要打开【安装未知应用】-【允许来自此来源的应用】开关，请前往【设置】中开启此权限</string>
+    <string name="version_updater_install_permission_dialog_btn">前往</string>
+
+    <string name="version_updater_http_exception_">HTTP响应异常，状态码为%s</string>
+    <string name="version_updater_network_error">网络错误，请重试！</string>
+    <string name="version_updater_network_timeout">网络超时，请重试！</string>
+</resources>

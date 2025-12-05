@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="version_updater_download_dialog_title">Downloading</string>
+    <string name="version_updater_download_dialog_title_again">Re-Download</string>
+    <string name="version_updater_download_dialog_content">Please wait while the update file is being downloaded. Do not close the application.</string>
+    <string name="version_updater_install_permission_dialog_title">Install permission</string>
+    <string name="version_updater_install_permission_dialog_content">Need to open【Install unknown apps】-【Allow from this source】switch，Go to 【Settings】to enable this permission</string>
+    <string name="version_updater_install_permission_dialog_btn">Go</string>
+
+    <string name="version_updater_http_exception_">HTTP response exception, status code is %s</string>
+    <string name="version_updater_network_error">Network error, please try it again</string>
+    <string name="version_updater_network_timeout">Network timeout, please try it again</string>
+</resources>
